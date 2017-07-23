@@ -1,0 +1,10 @@
+Package: com.neinzedd9.nomessagebuttons
+Name: NoMessageButtons
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Pre-Depends: firmware (>= 10.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove annoying iMessage buttons
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
